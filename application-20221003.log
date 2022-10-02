@@ -1,2 +1,28 @@
 2022-10-03 00:13:38.979 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
 2022-10-03 00:13:38.984 [main] INFO  com.moodanalyzer.App - HAPPY
+2022-10-03 00:36:51.583 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:36:58.589 [main] INFO  com.moodanalyzer.App - HAPPY
+2022-10-03 00:42:36.912 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:42:38.143 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:43:10.763 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:43:11.595 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:43:57.271 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:43:59.256 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:44:01.488 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:44:02.703 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:44:04.674 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:44:04.877 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:44:07.754 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:44:14.780 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:45:01.538 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:45:02.477 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:46:37.779 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:46:38.326 [main] INFO  com.moodanalyzer.App - SAD
+2022-10-03 00:47:21.181 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:47:31.233 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:48:04.972 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:48:06.330 [main] INFO  com.moodanalyzer.App - No null strings allowes
+2022-10-03 00:48:17.535 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:48:18.802 [main] INFO  com.moodanalyzer.App - No empty strings allowes
+2022-10-03 00:48:48.335 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 00:48:48.342 [main] INFO  com.moodanalyzer.App - No empty strings allowed!!!
