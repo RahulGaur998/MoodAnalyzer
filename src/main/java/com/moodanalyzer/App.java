@@ -1,5 +1,7 @@
 package com.moodanalyzer;
 
+import java.util.Scanner;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -8,7 +10,18 @@ public class App {
 
     public static void main(String[] args) {
         logger.info("Mood Analyzer!");
-        MoodAnalyzer moodAnalyzerObject = new MoodAnalyzer("I am in happy mood");
-        logger.info(moodAnalyzerObject.analyseMood());
+        String inputMessage = null;
+        try {
+            Scanner scannerObject = new Scanner(System.in);
+            inputMessage = scannerObject.nextLine();
+            if (inputMessage.isEmpty()) {
+                throw new IllegalArgumentException("param cannot be null.");
+            }
+            MoodAnalyzer moodAnalyzerObject = new MoodAnalyzer(inputMessage);
+            logger.info(moodAnalyzerObject.analyseMood());
+            scannerObject.close();
+        } catch (IllegalArgumentException e) {
+            logger.info("No empty strings allowed!!!");
+        }
     }
 }
