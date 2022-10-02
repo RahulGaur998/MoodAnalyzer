@@ -1,1 +1,5 @@
 2022-10-02 23:40:52.497 [main] INFO  com.moodanalyzer.App - Hello World!
+2022-10-02 23:47:55.691 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-02 23:47:55.695 [main] INFO  com.moodanalyzer.App - Happy
+2022-10-02 23:48:06.755 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-02 23:48:06.759 [main] INFO  com.moodanalyzer.App - Sad

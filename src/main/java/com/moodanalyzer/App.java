@@ -8,5 +8,7 @@ public class App {
 
     public static void main(String[] args) {
         logger.info("Mood Analyzer!");
+        MoodAnalyzer moodAnalyzerObject = new MoodAnalyzer();
+        logger.info(moodAnalyzerObject.analyseMood("Sad"));
     }
 }
