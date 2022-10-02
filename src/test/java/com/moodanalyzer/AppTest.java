@@ -35,7 +35,17 @@ public class AppTest {
 
     @Test
     public void checkUserInput() {
-        assertEquals(this.expectation, moodAnalyzerObject.analyseMood(this.userInput));
+        // assertEquals(this.expectation,
+        // moodAnalyzerObject.analyseMood(this.userInput));
     }
 
+    @Test
+    public void constructerMoodAnalyzer() {
+        String inputMessage = "I am in sad mood";
+
+        MoodAnalyzer moodAnalyzerObject = new MoodAnalyzer(inputMessage);
+        String result = moodAnalyzerObject.analyseMood();
+
+        assertEquals("SAD", result);
+    }
 }
