@@ -26,3 +26,5 @@
 2022-10-03 00:48:18.802 [main] INFO  com.moodanalyzer.App - No empty strings allowes
 2022-10-03 00:48:48.335 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
 2022-10-03 00:48:48.342 [main] INFO  com.moodanalyzer.App - No empty strings allowed!!!
+2022-10-03 13:24:57.973 [main] INFO  com.moodanalyzer.App - Mood Analyzer!
+2022-10-03 13:25:02.688 [main] INFO  com.moodanalyzer.App - SAD

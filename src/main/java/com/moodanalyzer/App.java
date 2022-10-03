@@ -21,7 +21,7 @@ public class App {
             logger.info(moodAnalyzerObject.analyseMood());
             scannerObject.close();
         } catch (IllegalArgumentException e) {
-            logger.info("No empty strings allowed!!!");
+            logger.info("SAD");
         }
     }
 }
